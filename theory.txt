@@ -1,0 +1,22 @@
+======Margin and Pading=====
+
+Padding= inside the box take extra place/space 
+(left/right/top/bottom)
+
+Margin= Outside the box take extra place/space 
+(left/right/top/bottom)
+
+<form> </form> = For Form
+<form action="method"> </form>
+action="method" === atributes
+
+<div class="container"> </div>
+class="container"
+
+margin: auto; === auto center a nia asbe
+ box-sizing: border-box;
+ Box Hole akta atributes dile valo hoi , jate box ti nosto na hoye jai.
+
+ text-align: center; = working only for text h,p, span text....
+
+ input class="input-element"

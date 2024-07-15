@@ -1,0 +1,42 @@
+.heading{
+    background-color: aqua;
+    /* padding: 50px; */
+    padding-left: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* margin: 40px; */
+    margin-top: 50px;
+}
+.container{
+    background-color: aquamarine;
+    height: 450px;
+    width: 413px;
+    /* margin-left: 300px; */
+    margin: auto;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.title{
+    /* padding-left: 150px; */
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    color:blue
+}
+.input-element{
+    width: 45%;
+    margin-left: 12px;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.btn{
+    padding: 5px;
+    padding-left: 10px;
+    width:45%;
+    background-color: brown;
+    color:blanchedalmond;
+    border-radius: 30px;
+    margin-left: 110px;
+    margin-top: 50px;
+}
